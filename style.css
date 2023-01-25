@@ -1,0 +1,35 @@
+body{
+	background: blue;
+}
+#paragraph{
+	color: darkred;
+    text-align: none;
+    font-size: 150%;
+}
+
+
+.header{
+	text-align: center;
+	text-decoration: underline;
+
+}
+.pic{
+    position: absolute;
+	box-sizing: border-box;
+	width: 500px;
+	height: 300px;
+    top:40%;
+    left: 30%;
+
+}
+
+body .header:hover{
+	color: red;
+}
+body #paragraph:hover{
+	color: black;
+}
+#hhh{
+	height: 700px;
+	top:70%;
+}
